@@ -1,5 +1,5 @@
 # web3js_node
-Comment interagir avec la blockchaine Ethereum avec NodeJS et Web3JS
+Comment interagir avec la blockchain Ethereum en utilisant NodeJS et Web3JS
 
 Commandes :
 - npm init
